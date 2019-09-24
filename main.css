@@ -4,8 +4,9 @@ body {
 }
 
 .profile-card-1 {
-  width: 300px;
-  height: 360px;
+  top: 5%;
+  width: 80%;
+  height: 80%;
   background: white;
   margin: 0 auto;
   border-radius: 10px;
